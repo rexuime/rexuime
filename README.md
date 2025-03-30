@@ -57,7 +57,7 @@ Achieved 98% uptime and 4-month battery life with adaptive sleep cycles and a mo
 Ideal for low-power, remote monitoring applications.  
 - [Project Repository](#) *(Coming Soon)*
 
-### 🐾 Real-Time Dog Waste Detection System
+### 🐶 Real-Time Dog Waste Detection System
 Created a real-time AI vision system using Python and OpenCV to detect canine waste events through object detection and pose estimation.  
 Achieved 90%+ accuracy using sensor fusion (thermal + environmental) and integrated a Flask-based interface for remote monitoring.  
 - [Project Repository](#) *(Coming Soon)*
