@@ -14,33 +14,30 @@ I aim to create systems that are modular, maintainable, and understandable — s
 
 ### Languages
 - **C, C++** – Embedded firmware, low-level systems, memory management
-- **Python** – OpenCV, scripting, automation, Flask, NumPy, AI pipelines
-- **Java** – Educational experience with OOP, structures, and design patterns
-- **Bash** – Linux scripting and automation
-- **x86 Assembly** – Low-level systems understanding (academic)
-- **MATLAB** – Signal processing, image processing (limited)
-- **HTML/CSS, JavaScript (React.js)** – Frontend dev
-- **SQL (SQLite, MySQL)** – Lightweight database management
+- **Python** – Automation, OpenCV, Flask APIs, NumPy, AI/computer vision pipeline
+- **Java** – Object-oriented design, data structures, and design patterns (academic)
+- **Bash** – Linux CLI tools, automation, and workflow scripting
+- **x86 Assembly** – Systems understanding, memory/register analysis (academic)
+- **MATLAB** – Signal processing, image processing, project prototyping/modeling/testing 
+- **HTML/CSS, JavaScript (React.js)** – UI prototyping and web tools
+- **SQL (SQLite, MySQL)** – Lightweight database management and storage for logs/APIs
 
 ### Embedded Systems (Firmware, I/O, RTOS)
-- Microcontrollers: PIC, STM32, Arduino, Raspberry Pi
-- FreeRTOS, task scheduling, SD/MMC card interfacing
-- DMA, ISR design, interrupt priority, sleep/wake modes
-- Power optimization, memory management, real-time execution
-- Communication: UART, SPI, I2C, LoRaWAN, MQTT
-- Debugging: Oscilloscopes, logic analyzers, multimeters, MPLAB
-
-### Real-Time Systems & Signal Processing
-- FFT, digital filters, event-driven design, multithreading
-- Voltage anomaly detection, timing analysis, predictive behavior
+- Microcontrollers: PIC, STM32, ESP32, ATmega (Arduino + bare-metal), Raspberry Pi
+- RTOS: FreeRTOS, task scheduling/priority, interrupt handling, ISR design, DMA, SD/MMC card interfacing
+- Power: Dynamic scaling, sleep/wake modes, memory management, voltage anomaly detection
+- Communication: UART, SPI, I2C, LoRaWAN, MQTT, GPIO
+- Tools: MPLAB, oscilloscopes, logic analyzers, multimeters
+- Real-time design: Event-driven systems, timing analysis, multithreading, FFT, digital filters
 
 ### Computer Vision & AI
-- OpenCV, YOLO, DeepLabCut, Eigenfaces
-- Image filtering, pose estimation, motion tracking
-- Sensor fusion (thermal, visual, environmental)
+- Libraries: OpenCV, YOLO, DeepLabCut
+- Techniques: Object detection, pose estimation, motion tracking
+- Preprocessing: Image filtering, noise reduction, color space transformation
+- Fusion: Combining thermal, visual, and environmental data for enhanced accuracy
 
 ### Development Tools & Practices
-- Git/GitHub, Linux CLI, Jira, Agile methodology
+- Git/GitHub, Linux Environments, Jira, Agile 
 - CI/CD, structured logging, validation & unit testing
 - Clear documentation, flowcharts, and architectural planning
 
@@ -49,21 +46,20 @@ I aim to create systems that are modular, maintainable, and understandable — s
 ## 🔧 Featured Projects
 
 ### ⚡ Adaptive Power Management System
-C++-based embedded system for dynamic power optimization in real-time environments.
-- Reduced power by 35%, improved system stability by 40%
-- Multi-threaded scheduling, signal processing (FFT), anomaly detection  
+Developed a C++ power management system to improve performance and energy efficiency in embedded environments.  
+Used multi-threaded scheduling, signal processing, and real-time anomaly detection to reduce power use by 35% and improve system stability by 40%.  
+Built for Linux-based systems with real-time responsiveness in mind.  
 - [Project Repository](#) *(Coming Soon)*
 
 ### 🌐 Embedded Sensor Network for Environmental Monitoring
-Modular, low-power firmware in C for real-time sensor tracking using LoRaWAN + MQTT.
-- 98% uptime, 4-month battery life, adaptive sleep cycles
-- Designed for long-term deployment in constrained conditions  
+Designed an embedded C system to track environmental conditions using long-range wireless communication (LoRaWAN + MQTT).  
+Achieved 98% uptime and 4-month battery life with adaptive sleep cycles and a modular sensor interface.  
+Ideal for low-power, remote monitoring applications.  
 - [Project Repository](#) *(Coming Soon)*
 
-### 🐶 Real-Time Dog Waste Detection System
-AI-powered detection system using OpenCV, YOLO, and pose estimation.
-- 90%+ accuracy, thermal + visual fusion, real-time web interface
-- Embedded edge device (Raspberry Pi) streams video to local machine for processing  
+### 🐾 Real-Time Dog Waste Detection System
+Created a real-time AI vision system using Python and OpenCV to detect canine waste events through object detection and pose estimation.  
+Achieved 90%+ accuracy using sensor fusion (thermal + environmental) and integrated a Flask-based interface for remote monitoring.  
 - [Project Repository](#) *(Coming Soon)*
 
 ---
