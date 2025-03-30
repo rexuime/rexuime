@@ -48,13 +48,13 @@ I aim to create systems that are modular, maintainable, and understandable — s
 
 ## 🔧 Featured Projects
 
-### 🧠 Adaptive Power Management System
+### ⚡ Adaptive Power Management System
 C++-based embedded system for dynamic power optimization in real-time environments.
 - Reduced power by 35%, improved system stability by 40%
 - Multi-threaded scheduling, signal processing (FFT), anomaly detection  
 - [Project Repository](#) *(Coming Soon)*
 
-### 🌎 Embedded Sensor Network for Environmental Monitoring
+### 🌐 Embedded Sensor Network for Environmental Monitoring
 Modular, low-power firmware in C for real-time sensor tracking using LoRaWAN + MQTT.
 - 98% uptime, 4-month battery life, adaptive sleep cycles
 - Designed for long-term deployment in constrained conditions  
