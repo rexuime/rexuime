@@ -4,9 +4,7 @@ I'm a Computer Engineer who loves building, breaking down, and understanding com
 
 I enjoy solving problems of all kinds — whether it's creating embedded software, training a computer vision model, or debugging a tricky hardware-software interaction. My favorite part of engineering is **taking something complicated and breaking it into simple, low-level, manageable parts**.
 
-I'm deeply curious and always eager to learn new tools, concepts, and technologies. I love exploring how computers work at every level — from circuits and interrupts to memory layout and multitasking systems. 
-
-Whether I’m writing firmware in C, analyzing signal data, or building a full-stack prototype just to try something new, I focus on making things **efficient, clear, and reliable**.
+I'm deeply curious and always eager to learn new tools, concepts, and technologies. I love exploring how computers work at every level — from circuits and interrupts to memory layout and multitasking systems. Whether I’m writing firmware in C, analyzing signal data, or building a full-stack prototype just to try something new, I focus on making things **efficient, clear, and reliable**.
 
 I aim to create systems that are modular, maintainable, and understandable — systems that make sense not just to the computer, but to the people who work with them.
 
