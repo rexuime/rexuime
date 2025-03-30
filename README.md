@@ -23,23 +23,23 @@ I aim to create systems that are modular, maintainable, and understandable — s
 - **SQL (SQLite, MySQL)** – Lightweight database management and storage for logs/APIs
 
 ### Embedded Systems (Firmware, I/O, RTOS)
-- Microcontrollers: PIC, STM32, ESP32, ATmega (Arduino + bare-metal), Raspberry Pi
-- RTOS: FreeRTOS, task scheduling/priority, interrupt handling, ISR design, DMA, SD/MMC card interfacing
-- Power: Dynamic scaling, sleep/wake modes, memory management, voltage anomaly detection
-- Communication: UART, SPI, I2C, LoRaWAN, MQTT, GPIO
-- Tools: MPLAB, oscilloscopes, logic analyzers, multimeters
-- Real-time design: Event-driven systems, timing analysis, multithreading, FFT, digital filters
+- **Microcontrollers** - PIC, STM32, ESP32, ATmega (Arduino + bare-metal), Raspberry Pi
+- **RTOS** - FreeRTOS, task scheduling/priority, interrupt handling, ISR design, DMA, SD/MMC card interfacing
+- **Power** - Dynamic scaling, sleep/wake modes, memory management, voltage anomaly detection
+- **Communication** - UART, SPI, I2C, LoRaWAN, MQTT, GPIO
+- **Tools** - MPLAB, oscilloscopes, logic analyzers, multimeters
+- **Real-time design** - Event-driven systems, timing analysis, multithreading, FFT, digital filters
 
 ### Computer Vision & AI
-- Libraries: OpenCV, YOLO, DeepLabCut
-- Techniques: Object detection, pose estimation, motion tracking
-- Preprocessing: Image filtering, noise reduction, color space transformation
-- Fusion: Combining thermal, visual, and environmental data for enhanced accuracy
+- **Libraries** - OpenCV, YOLO, DeepLabCut
+- **Techniques** - Object detection, pose estimation, motion tracking
+- **Preprocessing** - Image filtering, noise reduction, color space transformation
+- **Fusion** - Combining thermal, visual, and environmental data for enhanced accuracy
 
 ### Development Tools & Practices
-- Git/GitHub, Linux Environments, Jira, Agile 
-- CI/CD, structured logging, validation & unit testing
-- Clear documentation, flowcharts, and architectural planning
+- **Collaboration** - Git/GitHub, Linux Environments, Jira, Agile 
+- **Validation** - CI/CD, structured logging, validation & unit testing
+- **Documentation** - Clear documentation, flowcharts, UML diagrams, and architectural planning
 
 ---
 
