@@ -4,15 +4,16 @@ I’m a Computer Engineer focused on embedded and low-level systems. I enjoy wor
 
 # Areas I have experience in include:
 - Embedded C and C++ development
+- x86 and ARM Assembly where necessary for debugging and specialized development
 - Hardware-facing software and low-level system components
 - Memory-mapped I/O and register-level interaction
 - RTOS concepts such as task scheduling, interrupts, ISRs, and DMA
 - Embedded Linux development environments
 - SD/MMC interfaces and filesystem-related code
 - Debugging and testing on real hardware
-- Dynamic scaling, sleep/wake modes, memory management, voltage anomaly detection
+- Dynamic scaling, sleep/wake modes, memory management, and voltage anomaly detection
 
-In addition to embedded systems work, I use Python for tooling, automation, and applied computer vision tasks, including image and video processing and AI/machine learning. This included object detection, pose estimation, motion tracking, image filtering, noise reduction, and combining different sets of data for improved detection accuracy.
+In addition to embedded systems work, I've used Python for tooling, automation, and applied computer vision tasks, such as image and video processing and AI/machine learning. This included object detection, pose estimation, motion tracking, image filtering, noise reduction, and combining different sets of data for improved detection accuracy.
 
 # I’ve worked in collaborative development environments and am familiar with:
 - Linux-based workflows
