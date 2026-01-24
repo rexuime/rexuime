@@ -4,7 +4,7 @@ I’m a Computer Engineer focused on embedded and low-level systems. I enjoy wor
 
 # Areas I have experience in include:
 - Embedded C and C++ development
-- x86 and ARM Assembly where necessary for debugging and specialized development
+- x86 and ARM Assembly for low-level debugging and specialized development
 - Hardware-facing software and low-level system components
 - Memory-mapped I/O and register-level interaction
 - RTOS concepts such as task scheduling, interrupts, ISRs, and DMA
